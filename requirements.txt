@@ -2,6 +2,6 @@ gradio==4.25
 deepfilternet==0.5.6
 vinorm==2.0.7
 underthesea==6.8.0
-deepspeed
-cutlet
-unidic
+deepspeed==0.14.5
+cutlet==0.4.0
+unidic==1.1.0
